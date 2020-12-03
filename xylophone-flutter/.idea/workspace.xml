@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f10f5a3-0e85-4268-a2fc-5295eab4a7e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../dicee/dicee-StateFulRundom/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dicee/dicee-StateFulRundom/lib/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hTZhBk8159IxavhaFtoNspW2iM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f10f5a3-0e85-4268-a2fc-5295eab4a7e9" name="Default Changelist" comment="" />
+      <created>1600037167545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600037167545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600763074134">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="223" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1600763074134" />
+    <state x="499" y="136" key="FileChooserDialogImpl" timestamp="1600763715996">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="499" y="136" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1600763715996" />
+    <state x="100" y="108" width="1338" height="660" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600422885149">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="100" y="108" width="1338" height="660" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1600.860@0.0.1600.860" timestamp="1600422885149" />
+    <state x="333" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1600762654518">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="333" y="182" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1600762654518" />
+    <state x="400" y="220" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1600037208132" />
+  </component>
+</project>
