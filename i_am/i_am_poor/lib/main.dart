@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(
   MaterialApp(home:
-  Scaffold(backgroundColor: Colors.deepOrange[700],
+  Scaffold(backgroundColor: Colors.deepOrange[800],
     appBar:AppBar(
       title: Text('I AM Poor'),
       backgroundColor: Colors.deepPurple[9000],
